@@ -1,4 +1,4 @@
-# From Zero to RISC-V: Custom CPU Architecture
+# RV32I Single-Cycle Processor Core
 
 This repository documents a progressive, semester-long journey from learning basic digital logic to designing and implementing a fully functional 32-bit RISC-V processor core in Verilog.
 
