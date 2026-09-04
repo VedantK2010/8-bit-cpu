@@ -26,7 +26,7 @@ The repository is divided into the major milestones of the project:
 - [x] **Phase 4: Build a Single-Cycle RV32I Core**
   - Built a 32-bit datapath supporting Arithmetic, Immediates, Memory (`lw`/`sw`), and Branching/Jumps.
   - Verified end-to-end execution of a RISC-V machine code program.
-- [ ] **Phase 5: Toolchain Integration** *(Up Next)*
+- [x] **Phase 5: Toolchain Integration** *(Completed)*
   - Compile C programs using the RISC-V GNU Toolchain.
   - Load compiled C code into the core's Instruction Memory and execute it.
 - [ ] **Phase 6: Pipelining (Stretch Goal)**
