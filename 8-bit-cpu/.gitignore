@@ -1,0 +1,10 @@
+# Icarus Verilog compiled simulation executables
+*.out
+sim.out
+
+# Waveform dump files
+*.vcd
+
+# Editor/OS junk
+.vscode/
+Thumbs.db
